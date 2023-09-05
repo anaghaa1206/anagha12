@@ -2,18 +2,27 @@
 toc: true
 comments: false
 layout: post
-title: Sample of Detail Plan
+title: Weekly Plan
 description: Example Plan!!! Analyze hacks and plan.
 type: plans
 courses: { compsci: {week: 1} }
 ---
 
 ### PBL Unit 1 / Week 1
-Learning outcome. Building a personal and running GitHub Pages.
-- Monday: Schedule Live Review - 4 minutes. Finish Tools setup. Attend Office Hours on HTML, CSS, JS and Student Blog.
-- Tuesday: Read [Markdown Student Page](https://nighthawkcoders.github.io/teacher//c4.3/c5.0/2023/08/17/markdown-html_fragments.html), Attend Office Hours on Updating Home Page and Plan Page.
-- Wednesday: Work Plan Page and Home Page.  Prep with pair on live review.
-- Thursday: 10:45 live review per Canvas.  Read [Linux Shell and Bash](https://nighthawkcoders.github.io/teacher//5.a/c4.1/2023/08/16/linux_shell_IPYNB_2_.html).  Tranfer blog and customize for my lab notebook.
+- Review with Pair. Discuss/Show evidence.
+- Discuss laptop, cloud computer.
+- Discuss tools setup and troubles.
+- Show personal blog / home page.
+- Show how you are maintaining notes, answering hacks, and showing tangibles.
+- How have you learned Markdown, HTML, CSS, JavaScript.
+- Show Jupyter Notebooks and how you have added and organized them in the blog.
+- Show evidence of using Slack Account, show app installed on Laptop and/or phone. Show awared of #annoncements, #general, #coding.
+- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
+- Discuss GitHub Account, show ability to push/pull changes from VSCode.
+- Discuss development on Themes, show how you plan to organized lab notebook.
+- Include Lab Notebook
+- Make Snake Game
+- Make Calculator
 
 
 ### Pair Planning Meeting
