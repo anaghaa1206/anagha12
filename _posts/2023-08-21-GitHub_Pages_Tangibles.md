@@ -8,9 +8,8 @@ type: tangibles
 courses: { compsci: {week: 0} }
 ---
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
+### Review Ticket
+- completed web programming basics
+- Collaboration with team members was effective, and all tasks were completed successfully.
+- However, there is room for improvement in coordination and documentation. 
+- The implementation of GitHub Pages and Utterances enhances the review and feedback process.
