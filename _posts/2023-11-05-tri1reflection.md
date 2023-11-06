@@ -1,3 +1,15 @@
+---
+toc: true
+comments: false
+layout: post
+title: Tri 1 Reflection
+type: tangibles
+courses: { compsci: {week: 12} }
+---
+
+
+
+
 Introduction to Computer Science: Trimester 1 provided me with a strong foundation in the fundamental concepts of computer science. I learned about algorithms, data structures, and the importance of problem-solving skills. This introductory phase helped me see the broad scope of computer science and its relevance in today's world.
 
 Coding Skills: Throughout the trimester, I gained proficiency in coding, particularly in Python, which is a versatile and beginner-friendly programming language. I was able to write, understand, and debug code, which is a crucial skill for any computer science student.
