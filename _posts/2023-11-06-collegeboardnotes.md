@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Individual code 
+title: College board quiz notes 
 type: hacks
 courses: { compsci: {week: 12} }
 ---
