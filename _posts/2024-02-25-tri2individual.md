@@ -142,3 +142,34 @@ Your video must be:
 □ Either .webm, .mp4, .wmv, .avi, or .mov format
 □ No more than 1 minute in length
 □ No more than 30MB in file size
+
+
+#### Key Commits
+
+Frontend:
+
+<iframe src="https://drive.google.com/file/d/1EXR5Bmu6gN_hgH0wzfwrItPIT-GsSSJH/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+Backend:
+<iframe src="https://drive.google.com/file/d/1hGjzSgRi4oSOdLHa7XmLw4t8rGxSEjnx/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+#### Feature Planning
+
+**Introduction to Stock Data Fetcher**
+
+The Stock Data Fetcher is a web-based tool designed to fetch and display real-time stock market data. It provides users with key information such as opening price, high price, low price, closing price, and trading volume for a given stock symbol. Whether you're a seasoned investor or just curious about market trends, the Stock Data Fetcher offers a user-friendly interface to explore stock market data effortlessly.
+
+**Features of Stock Data Fetcher**
+Real-Time Data Retrieval: With just a few clicks, users can retrieve real-time stock market data for any given stock symbol. The tool fetches data directly from the designated API, ensuring accuracy and reliability.
+
+Comprehensive Information: The Stock Data Fetcher provides comprehensive information about a stock's performance, including its opening price, high price, low price, closing price, and trading volume. This data allows users to assess market trends and make informed decisions.
+
+User-Friendly Interface: The tool features a simple and intuitive interface, making it accessible to users of all levels of expertise. Whether you're a novice or an experienced investor, you can navigate the Stock Data Fetcher with ease.
+
+Customizable: Users have the flexibility to input any stock symbol of their choice, enabling them to retrieve data for specific stocks they're interested in tracking. Whether it's popular tech stocks like AAPL (Apple Inc.) or niche stocks in emerging markets, the Stock Data Fetcher has you covered.
+
+**How to Use Stock Data Fetcher**
+Using the Stock Data Fetcher is straightforward. Simply enter the desired stock symbol into the input field, click the "Fetch Stock Data" button, and voilà! The tool will retrieve and display the latest stock market data for the specified stock symbol. Whether you're monitoring your investment portfolio or conducting market research, the Stock Data Fetcher provides you with the insights you need.
+
