@@ -1,1 +1,3 @@
 #### Anagha Ashtewale's Personal Blog
+
+This Blog contains my knowledge and learnings in the AP Computer Science course throughout the year. It contains multiple hacks and practices and lessons which I have learned. These small hacks are practiced for making larger projects. I spent a large portion of the first and second trimester learning about important computer science skills which are necessary for building larger projects like a CPT as it is a cumulation of multiple skills. The folders Notebooks and Posts contain the hacks in which I have done a lot of practice. Additionally, I also maintained a plan that showed my goals for the week and how I am going to break it down in order to make sure I am on track for completing my goals for the week. 
